@@ -34,4 +34,4 @@
 
 # Dibujo Encargo
 inspirado en las obras de Wassily Kandinsky 
-![dibujo](https://drive.google.com/file/d/1Hc3vwLX9xSIfi9vtK7A7yFe35eQ1D5LZ/view?usp=drive_link) 
+![dibujo](https://drive.google.com/file/d/1Hc3vwLX9xSIfi9vtK7A7yFe35eQ1D5LZ/view?usp=sharing) 
